@@ -1,0 +1,1 @@
+{"name":"@gigmatch/utils","dependencies":{"ioredis":"^5.9.0","kafkajs":"^2.2.4"},"devDependencies":{"@types/ioredis":"^4.28.10"}}

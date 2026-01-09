@@ -1,0 +1,13 @@
+{
+  "name": "@gigmatch/bid-service",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "ts-node-dev src/index.ts"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "dotenv": "^16.4.5",
+    "@gigmatch/db": "*"
+  }
+}
